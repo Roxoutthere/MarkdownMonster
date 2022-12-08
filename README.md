@@ -6,7 +6,7 @@
 
 <img src="Art/MarkdownMonster_Github.jpg" width=600 />
 
-Markdown Monster is an easy to use and extensible **Markdown Editor**, **Viewer** and **Weblog Publisher** for Windows. Our goal is to provide the best Markdown specific editor for Windows and make it as easy as possible to create Markdown documents. We provide a core editor and previewer, and a number of non-intrusive helpers to help embed content like images, links, tables, code and more into your documents with minimal effort.
+Markdown Monster (MM) is an easy to use and extensible **Markdown Editor**, **Viewer** and **Weblog Publisher** for Windows. Our goal is to provide the best Markdown specific editor for Windows and make it as easy as possible to create Markdown documents. We provide a core editor and previewer, and ~~a number of~~ non-intrusive ~~helpers~~ assistance to help embed content like images, links, tables, code and more into your documents with minimal effort.
 
 * [See what's new](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)  
 * [License](#license)
@@ -44,7 +44,7 @@ c:\> scoop install markdown-monster
 ```
 
 ## License
-Markdown Monster is a licensed product and while we provide a fully functional, free download, **for continued use a reasonably priced license is required**.
+Markdown Monster is a licensed ~~product~~ product, and while we provide a fully functional, free download, **~~for continued use~~a reasonably priced license is required for continued use**.
 
 For more detailed info on licensing please visit licensing information here:
 
@@ -53,7 +53,7 @@ For more detailed info on licensing please visit licensing information here:
 ### Source code no longer available here
 Due to rampant license abuse and misuse of the source code by a few bad actors, this repository no longer holds any of Markdown Monster's source code. The source code has moved to a private repository and access is [available by request](https://markdownmonster.west-wind.com/purchase#License).
 
-This repository serves as the GitHub information page for downloads and features, as well as for feedback on bug reports and enhancement requests in the [Issues section](https://github.com/RickStrahl/MarkdownMonster/issues). For more general questions, you an also use our [support message board](https://support.west-wind.com?forum=Markdown+Monster) in the Markdown Monster section.
+This repository serves as the GitHub information page for downloads and features, as well as for feedback on bug reports and enhancement requests in the [Issues section](https://github.com/RickStrahl/MarkdownMonster/issues). For more general questions, you ~~an~~can also use our [support message board](https://support.west-wind.com?forum=Markdown+Monster) in the Markdown Monster section.
 
 ## Overview
 Here's what Markdown Monster looks like using the default **Dark Theme**: 
