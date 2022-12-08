@@ -252,7 +252,7 @@ Markdown is everywhere these days, and it's becoming a favorite format for many 
 * Message Board message entry
 * Application text entry for formatted text
 
-Personally I use Markdown for my Weblog, my message board, of course on GitHub and in a number of applications that have free form text fields that allow for formatted text - for ~~example~~ example, ~~in~~ our Webstore product descriptions are <span style="color:blue">some *blue* text</span> written in Markdown. 
+Personally I use Markdown for my Weblog, my message board, of course on GitHub and in a number of applications that have free form text fields that allow for formatted text - for ~~example~~ example, ~~in~~ our Webstore product descriptions are <span style="color:blue">written</span> in Markdown. 
 
 Having a dedicated Markdown Editor that gets out of your way, yet provides a few helpful features **and lets you add custom features** that make your content creation sessions more productive is important. [Check out this post](https://medium.com/markdown-monster-blog/why-use-a-dedicated-markdown-editor-1aff2aaad42) on why it makes sense to use a dedicated Markdown Editor rather than a generic text editor for Markdown document creation. The ability to easily publish your Markdown to any MetaWebLog or Wordpress API endpoint is also useful as it allows you to easily publish to blogs or any application that supports for either for these formats.
 
